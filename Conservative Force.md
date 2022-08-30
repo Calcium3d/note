@@ -1,0 +1,2 @@
+# Define
+A [[force]] is conservative if the [[work]] done by the [[force]] in displacing a particle from one point to another is independent of the path followed by the particle and depends only on end points

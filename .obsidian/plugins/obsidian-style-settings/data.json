@@ -1,0 +1,7 @@
+{
+  "catppuccin@@default-font": "\"Inter\"",
+  "catppuccin@@not-editor": "\"Jetbrains Mono\", monospace",
+  "catppuccin@@mermaid-font": "\"Jetbrains Mono\", monospace",
+  "catppuccin@@font-monospace": "\"Jetbrains Mono\", monospace",
+  "catppuccin@@opacity-translucency-dark": 0.64
+}

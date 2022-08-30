@@ -1,0 +1,2 @@
+# Define
+If two bodies do not move along the same straight line path but lie in the same plane before and after the [[collision]], the [[collision]] is said to be oblique or two dimensional [[collision]]

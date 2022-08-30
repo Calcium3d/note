@@ -1,0 +1,106 @@
+{
+  "main": {
+    "id": "d5a791e2b4e94f52",
+    "type": "split",
+    "children": [
+      {
+        "id": "18377824e008dec1",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b4f28293f42cdd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "3ed7ba497ec81b74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a130d25a7e997b42",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b2fdbb1117f752f4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 196
+  },
+  "right": {
+    "id": "6428ed3909f4ee8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd8e722905adbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08776133cb550ede",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "c10c9fee38396f1c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 100,
+    "collapsed": true
+  },
+  "active": "18377824e008dec1",
+  "lastOpenFiles": [
+    "Mordern Periodic Table.md",
+    "Period.md",
+    "Group.md",
+    "Block.md",
+    "Atom.md",
+    "Periodic Table.md",
+    "Lanthanides.md",
+    "Actinides.md",
+    "F-Block.md",
+    "Orbital Series.md"
+  ]
+}

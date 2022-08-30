@@ -1,0 +1,2 @@
+# Define
+The coefficient of restitution gives a measure of degree of restitution of a [[collision]] and is defined as the ratio of the magnitude of relative [[velocity]] of separation after [[collision]] to the magnitude of relative [[velocity]] of approach before [[collision]]

@@ -1,0 +1,9 @@
+{
+  "translucency": true,
+  "interfaceFontFamily": "JetBrains Mono NL",
+  "textFontFamily": "JetBrains Mono NL",
+  "monospaceFontFamily": "JetBrains Mono NL",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 19,
+  "theme": "obsidian"
+}

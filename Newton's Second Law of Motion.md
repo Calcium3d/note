@@ -1,0 +1,2 @@
+# Define
+IT states that the rate of change of [[momentum]] of a body is directly proportional to the external [[force]] applied on the body and the change takes place in the direction of the applied [[force]]

@@ -1,0 +1,2 @@
+# Define
+If the amount of [[work]] done in moving on object against a [[force]] from one point to another depends on the path along which the body moves, then such a [[force]] is called non conservative path
